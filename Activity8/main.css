@@ -1,0 +1,22 @@
+.pagedesc {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: blue;
+}
+hr {
+    height: 1px;
+    color: red;
+    border-color: red;
+    background-color: red;
+}
+h2 {
+    color: green;
+}
+html {
+    background-color: yellow;
+}
+body {
+    font-size: 16pt;
+}
