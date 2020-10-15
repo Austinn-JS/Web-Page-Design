@@ -1,0 +1,29 @@
+html {
+	background-color: lightskyblue;
+}
+hr {
+	height: 2px;
+	background-color: darkblue;
+	color: darkblue;
+	outline-color: darkblue;
+}
+.center {
+	text-align: center;
+}
+body {
+	font-family: Verdana;
+	color: black;
+}
+
+.code-interest {
+	background-color: rgb(247, 150, 198);
+}
+.hobbies-interests {
+	background-color: rgb(158, 248, 140);
+}
+.goals {
+	background-color: rgb(236, 119, 119);
+}
+.fun-facts {
+	background-color: rgb(149, 241, 241);
+}
