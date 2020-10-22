@@ -1,0 +1,46 @@
+body {
+  font-size: 16pt;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+hr {
+  height: 2px;
+  color: blue;
+  border-color: blue;
+  background-color: blue;
+}
+
+h2 {
+  text-align: left;
+  color: blue;
+}
+
+html {
+  background-color: #81daf5;
+}
+
+.pagedesc {
+  text-align: center;
+}
+
+.intro {
+  background-color: #fea07a;
+  width: 70%;
+  margin: auto;
+}
+
+.facts {
+  background-color: #d2b4de;
+  width: 70%;
+  margin: auto;
+}
+
+.thanks {
+  background-color: #f7dc6f;
+  width: 70%;
+  margin: auto;
+}

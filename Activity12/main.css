@@ -1,0 +1,40 @@
+body {
+  font-size: 16pt;
+  background-color: lightgreen;
+}
+
+h1 {
+  text-align: center;
+  color: yellow;
+}
+
+h2 {
+  text-align: center;
+  color: yellow;
+}
+
+hr {
+  height: 2px;
+  color: blue;
+  border-color: blue;
+  background-color: blue;
+}
+
+.part1 {
+  text-align: center;
+  background-color: lightskyblue;
+  width: 70%;
+  margin: auto;
+}
+.part2 {
+  text-align: left;
+  background-color: #33adff;
+  width: 65%;
+  margin: auto;
+}
+.part3 {
+  text-align: left;
+  background-color: steelblue;
+  width: 60%;
+  margin: auto;
+}
