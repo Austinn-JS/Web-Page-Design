@@ -1,0 +1,27 @@
+.contrast {
+  color: lightgrey;
+}
+.center {
+  text-align: center;
+}
+#TopSocial {
+  background-color: #ccd5db;
+  width: 80%;
+  margin: auto;
+}
+#Favorites {
+  background-color: #ccd5db;
+  width: 80%;
+  margin: auto;
+}
+#MostPopular {
+  background-color: #db5858;
+  width: 90%;
+  margin: auto;
+}
+.salmon {
+  color: #db5858;
+}
+body {
+  background-color: #ceddf2;
+}

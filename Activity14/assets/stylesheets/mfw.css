@@ -1,0 +1,23 @@
+.nobullet {
+    list-style-type: none;
+}
+
+html {
+    background-color: lightsteelblue;
+}
+h2 {
+    color: crimson;
+}
+h1 {
+    color: rebeccapurple;
+    text-align: center;
+}
+hr {
+    color: blue;
+    background-color: blue;
+    outline-color: blue;
+    height: 2px;
+}
+.pagedesc {
+    text-align: center;
+}
