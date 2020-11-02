@@ -1,0 +1,22 @@
+#intro {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  background-color: #f2df61;
+}
+#prime {
+  width: 60%;
+  margin: auto;
+  background-color: #9cadac;
+}
+#video {
+  width: 40%;
+  margin: auto;
+  background-color: #f2df61;
+}
+body {
+  background-color: #363636;
+}
+.center {
+  text-align: center;
+}
