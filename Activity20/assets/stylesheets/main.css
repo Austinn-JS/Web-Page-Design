@@ -1,0 +1,23 @@
+#best {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  background-color: #638be0;
+}
+#how {
+  width: 80%;
+  margin: auto;
+  background-color: #638be0;
+}
+.white {
+  color: white;
+}
+body {
+  background-color: #9e3939;
+}
+hr {
+  height: 1px;
+  color: black;
+  border-color: black;
+  background-color: black;
+}

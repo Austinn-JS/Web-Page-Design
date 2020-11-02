@@ -1,0 +1,16 @@
+html {
+  background-color: skyblue;
+}
+hr {
+  height: 2px;
+  background-color: darkblue;
+  color: darkblue;
+  outline-color: darkblue;
+}
+.center {
+  text-align: center;
+}
+body {
+  font-family: Verdana;
+  color: black;
+}
