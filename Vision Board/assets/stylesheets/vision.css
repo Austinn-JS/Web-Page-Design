@@ -1,0 +1,77 @@
+body {
+	font-family: Georgia;
+}
+
+hr {
+	color: orange;
+	border-color: orange;
+	border-width: 2px;
+}
+.vision_image {
+	height: 800px;
+	width: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.other_photo {
+	height: 500px;
+	width: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.text-center {
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+/*
+The only picture I care to share ever
+*/
+#I_Dont_Like_Sharing_Pictures_of_Me_Or_My_Family {
+	border-radius: 50%;
+	height: 200px;
+	width: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+p {
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+#Vision {
+	margin: auto;
+	width: 80%;
+}
+#Goals {
+	margin: auto;
+	background-color: #80e026;
+	width: 80%;
+}
+#Personal {
+	margin: auto;
+	background-color: #26e09f;
+	width: 80%;
+}
+#Inspiring {
+	margin: auto;
+	background-color: #26c4e0;
+	width: 80%;
+}
+#Special {
+	margin: auto;
+	background-color: #269ce0;
+	width: 80%;
+}
+#Other {
+	margin: auto;
+	background-color: #6b6e70;
+	width: 80%;
+}
