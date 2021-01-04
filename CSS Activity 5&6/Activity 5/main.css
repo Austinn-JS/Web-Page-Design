@@ -1,0 +1,51 @@
+body {
+	background-image: url(color.jpg);
+}
+#box {
+	background-color: #b6d2ef;
+	width: 900px;
+	margin: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #1f618d;
+	margin: 50px;
+}
+.hl {
+	color: red;
+	text-align: center;
+	font-family: Georgia;
+	font-size: 2pt;
+	text-decoration: underline;
+}
+.one {
+	color: blue;
+	text-align: left;
+	font-family: Georgia;
+	font-size: 14pt;
+}
+.two {
+	color: green;
+	text-align: left;
+	font-family: Georgia;
+	font-size: 14pt;
+}
+.three {
+	color: yellow;
+	text-align: left;
+	font-family: Georgia;
+	font-size: 14pt;
+}
+.four {
+	color: purple;
+	text-align: left;
+	font-family: Georgia;
+	font-size: 14pt;
+}
+span {
+	color: red;
+	text-decoration: underline;
+}
