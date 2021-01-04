@@ -1,0 +1,33 @@
+body {
+	background-image: url(./assets/img/background.png);
+	background-color: #3a3a3a;
+}
+.h1a {
+	font-family: monospace;
+	text-decoration: none;
+	font-size: 40px;
+	color: white;
+	text-align: center;
+}
+.h1b {
+	font-family: monospace;
+	text-decoration: underline;
+}
+p {
+	font-family: Courier;
+	color: white;
+}
+a {
+	color: #40a3bf;
+}
+div {
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#future {
+	background-color: #868686;
+	margin-left: 250px;
+	margin-right: 100px;
+}
