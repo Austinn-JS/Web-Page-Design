@@ -1,19 +1,24 @@
+/* Main CSS */
 body {
-	background-image: url(./assets/img/background.png);
-	background-color: #3a3a3a;
+	background-image: url(../img/background.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
-.h1a {
-	font-family: monospace;
-	text-decoration: none;
-	font-size: 40px;
-	color: white;
+h1 {
+	font-size: 32px;
 	text-align: center;
-}
-.h1b {
 	font-family: monospace;
 	text-decoration: underline;
 }
+#title {
+	color: white;
+	margin-left: 205px;
+	margin-right: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
 p {
+	font-size: 18px;
 	font-family: Courier;
 	color: white;
 }
@@ -21,13 +26,75 @@ a {
 	color: #40a3bf;
 }
 div {
-	margin-left: 30px;
+	margin-left: 205px;
 	margin-right: 30px;
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
-#future {
-	background-color: #868686;
-	margin-left: 250px;
-	margin-right: 100px;
+
+div h1 {
+	font-family: monospace;
+	text-decoration: none;
+	font-size: 24px;
+	color: white;
+	text-align: center;
+}
+
+/*Nav CSS*/
+.nav {
+	background: rgba(204, 204, 204, 0);
+	height: 100%;
+	width: 200px;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	overflow-x: hidden;
+	padding-top: 20px;
+}
+
+.nav a {
+	font-family: 'Courier New', Courier, monospace;
+	padding: 6px 8px 6px 16px;
+	text-decoration: none;
+	font-size: 18px;
+	color: white;
+	display: block;
+}
+
+.nav a:hover {
+	color: #36d8e0;
+	text-decoration: bold;
+}
+
+.nav p {
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 18px;
+	text-decoration: solid;
+	text-align: center;
+}
+
+.main {
+	margin-left: 160px;
+	padding: 0px 10px;
+}
+
+.floor-text-nav {
+	position: fixed;
+	left: 30px;
+	text-align: center;
+}
+
+@media screen and (max-height: 450px) {
+	.nav {
+		padding-top: 15px;
+	}
+	.nav a {
+		font-size: 18px;
+	}
+}
+
+/* highlighter */
+.color {
+	background-color: yellow;
 }
