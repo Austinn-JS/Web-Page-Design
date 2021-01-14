@@ -40,6 +40,10 @@ div h1 {
 	text-align: center;
 }
 
+.text-center {
+	text-align: center;
+}
+
 /*Nav CSS*/
 .nav {
 	background: rgba(204, 204, 204, 0);
@@ -97,4 +101,14 @@ div h1 {
 /* highlighter */
 .color {
 	background-color: yellow;
+}
+
+/* Image Scaler */
+img {
+	transition: transform 0.25s ease;
+}
+
+img:hover {
+	-webkit-transform: scale(1.75);
+	transform: scale(1.75);
 }
